@@ -1,5 +1,5 @@
 [project]
-name = "silero-vad"
+name = "silero-vad-fork"
 version = "0.1.0"
 description = "A packaged version of the Silero VAD model"
 readme = "README.md"
